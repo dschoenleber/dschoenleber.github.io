@@ -6,7 +6,7 @@ tags:
   - analytics
   - data org
 
-excerpt: "An analysis of why organizations fail to unleash the value of their data."
+excerpt: "An analysis of why many organizations fail to be data-driven."
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
