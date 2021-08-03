@@ -18,7 +18,7 @@ Working in data can be painful, and the mismatch between propaganda and practice
 
 ## Prologue
 
-In a recent project, I supported a small analytics team within a large, established corporation, which focused on delivering insights on the usage of their digital products. Given that some of the KPIs reported by the team were tracked by the CEO of this multi-billion dollar company, I was baffled by the lack of power, resources, as well as tooling and technology available to the team -- not to mention the mismatch between job titles and day-to-day duties. To be fair, the company, whose core business is physical rather than digital, had only recently began its digital transformation journey. What is more, there is nothing special about this experience -- I have seen many companies struggling on their journey to becoming analytics-enabled, data-driven companies.  
+In a recent project, I supported a data science team within a large, established corporation, which focused on delivering insights on the usage of their digital products. Given that some of the KPIs reported by the team were tracked by the CEO of this company, I was baffled by the lack of power, resources, as well as tooling and technology available to the team -- not to mention the mismatch between job titles and day-to-day duties. What is more, there is nothing special about this experience -- I have seen many companies struggling on their journey to becoming analytics-enabled, data-driven companies.  
 
 ## Rumblings in the industry
 
