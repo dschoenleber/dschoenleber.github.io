@@ -8,7 +8,10 @@ tag: "BIO"
 
 Hi, I'm **David**.  
 
-I am currently working as a Senior Data Science Consultant at [esentri](https://www.esentri.com/author/david-schoenleber/), where I work across the full data science stack: I build and deploy machine learning solutions, design and implement data science and analytics infrastructures in the cloud, and generally help companies create real value through data. As a result, I strongly believe that an "end-to-end mindset" is key to the success of data science and machine learning projects.
+I am currently working as a Data Scientist at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/) (BCAI), where I work on the creation and industrialization of machine learning solutions across Bosch's various business domains.
+
+Prior to joining BCAI, I worked as a Data Science Consultant at [esentri](https://www.esentri.com/author/david-schoenleber/) across the full data science stack: developing and deploying machine learning solutions, designing and implementing analytics infrastructures in the cloud, and generally helping organizations create value through data.
+As a result, I strongly believe that an "end-to-end mindset" is key to the success of data science and machine learning projects.
 
 Before joining esentri, I honed my industry tech skills by working as a data analyst with the big data cloud tech stack (AWS) at a performance marketing company called [msales](https://msales.com/).
 
