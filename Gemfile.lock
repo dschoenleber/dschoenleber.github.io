@@ -265,6 +265,7 @@ DEPENDENCIES
   jekyll (~> 3.9)
   jekyll-data
   jekyll-include-cache
+  tzinfo (~> 1.2.10)
   webrick
 
 BUNDLED WITH
