@@ -11,4 +11,6 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-data", group: :jekyll_plugins
 gem "webrick", group: :jekyll_plugins
-gem "tzinfo", "~> 1.2.10"  # security patch
+gem "tzinfo", ">= 1.2.10"  # security patch
+gem "activesupport", ">= 6.1.7.3" # security patch
+
