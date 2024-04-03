@@ -13,4 +13,3 @@ gem "jekyll-data", group: :jekyll_plugins
 gem "webrick", group: :jekyll_plugins
 gem "tzinfo", ">= 1.2.10"  # security patch
 gem "activesupport", ">= 6.1.7.3" # security patch
-
