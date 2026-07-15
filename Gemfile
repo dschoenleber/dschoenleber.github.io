@@ -14,3 +14,5 @@ gem "webrick", group: :jekyll_plugins
 gem "tzinfo", ">= 1.2.10"  # security patch
 gem "activesupport", ">= 6.1.7.3" # security patch
 gem "nokogiri", ">= 1.19.3" # security patch
+gem "concurrent-ruby", ">= 1.3.7" # security patch
+gem "faraday", ">= 2.14.3" # security patch
