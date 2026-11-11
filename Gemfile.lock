@@ -117,6 +117,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     prism (2.1.0)
+    prism (2.1.0-arm64-darwin)
     public_suffix (7.0.5)
     racc (1.8.1)
     rb-fsevent (0.11.2)
@@ -145,6 +146,7 @@ PLATFORMS
   arm64-darwin-20
   arm64-darwin-23
   arm64-darwin-25
+  arm64-darwin-27
   x86_64-darwin-20
   x86_64-linux
 
